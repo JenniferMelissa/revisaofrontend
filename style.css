@@ -1,0 +1,40 @@
+p {text-decoration: none;
+    text-transform: uppercase;
+    color: white;  
+    text-align: center;
+
+}
+
+h1 {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: purple;
+}
+
+#Gatoperso{
+    margin-left: 100px;
+    float: left;
+    position: relative;
+    padding: 1px;
+}
+
+#Gato{
+    float: right;
+    margin-right: 100px;
+    position: relative;
+    padding: 1px;
+}
+
+#A{
+    position: relative;
+    padding: 50px;
+    
+    
+}

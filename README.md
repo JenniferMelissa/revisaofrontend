@@ -23,3 +23,6 @@
 - Git push
 - Git pull
 - Git clone
+
+Explicando sobre jogo feito:
+Foi criado um jogo utilizando comandos de HTML, CSS e Javascript com perguntas relacionadas ao Git/GitHub. Nas páginas foram utilizadas imagens, gifs e vídeos.

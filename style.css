@@ -31,10 +31,35 @@ a {
     position: relative;
     padding: 1px;
 }
+#Index{
+    position: relative;
+    padding: 50px;
+    margin-left: ;
+    
+}
+
 
 #A{
     position: relative;
     padding: 50px;
+    margin-left: ;
     
-    
+}
+
+#B{
+    position: relative;
+    padding: 50px;
+    margin-left: ;
+}
+
+#C{
+    position: relative;
+    padding: 50px;
+    margin-left: ;
+}
+
+#D{
+    position: relative;
+    padding: 50px;
+   
 }

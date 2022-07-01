@@ -4,7 +4,7 @@
 ***Git: Comandos básicos:***
 
 - Git version 
-- Git Status: Verificação de status
+- Git status
 - Git config --global user.name 
 - Git config --global user.email
 - Git init
